@@ -1,1 +1,1 @@
-# DenoisingDirtyDocuments-
+# Dity Document Denoising
